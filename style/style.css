@@ -1,0 +1,11 @@
+body {
+
+    /*
+    background-color: lime;
+    background-image: url("../img-big/pobrane.png");
+    background-repeat: no-repeat;        
+    background-size: contain;
+*/
+    background: lime url("../img-big/pobrane.png") center top no-repeat scroll;
+    background-size: contain;
+}
